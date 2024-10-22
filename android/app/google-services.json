@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660448644166",
+    "project_id": "otizmdestek",
+    "storage_bucket": "otizmdestek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660448644166:android:0052814c47281d0795ce47",
+        "android_client_info": {
+          "package_name": "com.example.otizm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-KF_nVwZswR8LXr2Hxjr0GCXJMKANeiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
